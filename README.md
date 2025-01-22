@@ -11,4 +11,4 @@ Disini saya belajar :
 
 ![](Images/screenshot.png)
 
-Preview : [Website Landing Page]()
+Preview : [Website Landing Page](https://valindio.github.io/project-landing-page/)
